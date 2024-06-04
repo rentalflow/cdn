@@ -1,3 +1,3 @@
 # Rentalflow CDN
 
-Deployed on Netlify with cdn.rentalflow.net domain.
+Rentalflow public assets repository available on cdn.rentalflow.net.
